@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Capstone": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Student\\workspace\\week-4-pair-exercises-c-team-7\\19_Capstone\\dotnet"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Min 5 try catches. Be prepared for user to break code.
+Dictionary<location, cost, inventory, name> 		Key	Or HashSet?
+       Extra: Carousel vending machine.
+End of Day report:
+       0s should have an extra Console.WriteLine() stating that they need restock or replace.
+       Write only and protected from changes.
+
+Same error:
+       Error catch for if loader didn’t put in amount loader stated. i.e. one extra or one less.
+       Error catch for if an order gave too many or few items throwing inventory off.
+At least one extra Class.
+	SuperClass: Order Item/ Product // Maybe Interface is orderable/ purchasable/ vendible?
+        Food Item, Drink Item,
+       	(Drink Items on lower shelfs for less fall)
+If not enough change order can not be made.
+As a change machine: Return change if possible. Or return bill.
+While (!Tilt)
+{
+}
+// While (Locked)
+// {
+// }
